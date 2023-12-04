@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "857894122749",
+    "project_id": "apigot-53744",
+    "storage_bucket": "apigot-53744.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857894122749:android:34750bd1474baa03afba94",
+        "android_client_info": {
+          "package_name": "com.example.apigot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAweHPKCvgERy67Ynh0b254pUcLVjWfQSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
